@@ -30,7 +30,7 @@
 # :computer: Como Executar o projeto
 
 ```bash
-   Baixar e executar o arquivo 'AplicativoPonto.exe'. 
+   Baixar e executar o arquivo 'LeitorCheque.exe'. 
 ```
 
 ---
